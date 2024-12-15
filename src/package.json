@@ -1,0 +1,12 @@
+{
+  "name": "prbrazil-nodejs-mysql-listanomes-fullcycle",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.21.0",
+    "mysql2": "~3.11.0"
+  }
+}
